@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@import url(/style.css);
+@import url(/style/header.css);
+@import url(/style/apresentacao.css);
+@import url(/style/habilidades.css);
+@import url(/style/servicos.css);
+@import url(/style/rodape.css);
+@import url(/style/projetos.css);
+@import url(/style/certificados.css);
+
+
+body{
+    background-color: rgb(34, 31, 31);
+    color: white;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+}
+
