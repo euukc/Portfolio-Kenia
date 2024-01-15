@@ -46,7 +46,7 @@ img#foto-kenia{
 @media screen and (min-width: 1024px){
 
 .bg-apresentacao{
-    background-image: url(/img/bg-galaxy.jpg);
+    background-image: url(img/bg-galaxy.jpg);
     background-size: cover;
     width: 103%; 
     height: 100vh;
