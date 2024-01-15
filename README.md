@@ -1,8 +1,7 @@
 # Portfolio
- Construindo o meu Portfolio com HTML, CSS e JavaScript.
+ Construindo o meu primeiro Portfolio com HTML, CSS e JavaScript puro.
 
- Você pode verificar o projeto em construção <a href="https://portfolio-black-nine-66.vercel.app" target="_blank">clicando aqui!</a>
-
+ Verifique o projeto <a href="https://portfolio-black-nine-66.vercel.app" target="_blank">aqui.</a>
 
 
  ## 🛠️ Tecnologias Utilizadas
