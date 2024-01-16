@@ -16,4 +16,4 @@
 ## O que ainda precisa ser feito?
 
 - Finalizar a responsividade para telas menores;
-- Incluir botão no final da página para que retorna ao topo quando for clicado.
+- Incluir botão no final da página para que retorne ao topo quando for clicado.
